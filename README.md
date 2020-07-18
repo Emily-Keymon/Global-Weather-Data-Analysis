@@ -2,7 +2,7 @@
 
 ## Part I - WeatherPy
 
-Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. T
+Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
 
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
