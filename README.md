@@ -13,10 +13,33 @@
 
 ---
 ## Tasks
-###
-1.
-2.
+### Generate Cities List
+1.  Created a list for holding lat_lngs and cities.
+2.  Created a set of random lat and lng combinations.
+3.  Identified nearest city for each lat, lng combination; if the city was unique, added it to a cities list.
+4.  Printed the city count to confirm sufficient count.
 
+### Perform API Calls
+1.  Created starting URL for Weather Map API call.
+2.  Created an empty list for city data.
+3.  Created counters for record and set counts.
+4.  Ran a loop through all the cities in the list.
+5.  Grouped cities in sets of 50 for logging purposes.
+6.  Create endpoint URL with each city.
+7.  Logged the url, record, and set numbers.
+8.  Ran an API request for each of the cities.
+9.  Parsed the JSON and retrieved data.
+10. Parsed out the max temp, humidity, and cloudiness.
+11. Appended the city information into city_data list.
+
+### Data Cleanup and Analysis
+1.  Converted array of JSONs into Pandas DataFrame.
+2.  Viewed record count to ensure more than 500 cities.
+3.  Displayed dataframe and checked statistics.
+4.  Created a dataframe with the indices of cities that have humidity over 100%.
+5.  Made a new dataframe equal to the city data to drop all humidity outliers by index.
+6.  Extracted relevant fields from the dataframe.
+7.  Exported the City_Data into a csv file.
 
 
 ---
