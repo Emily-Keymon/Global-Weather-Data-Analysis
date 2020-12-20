@@ -6,6 +6,33 @@
 * https://openweathermap.org/api
 * https://github.com/Emily-Keymon/Global-Weather-Data-Analysis/blob/master/output_data/cities.csv
 
+---
+## Tools Used
+* 
+
+
+---
+## Tasks
+###
+1.
+2.
+
+
+
+---
+## Analysis
+As suspected, the weather becomes warmer the closer you get to the equator (0 degrees latitude). There are some spikes in temperature between 20 degrees and 40 degrees latitude.
+
+Neither humiditiy, cloudiness nor wind speed have direct relationships with the latitude. This applies to both the Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
+
+There is a negative correlation between temperature and latitude. The further away from the equator (0 degrees latitude), the lower the temperature.
+
+There is a positive correlation between latitude and max temperature. The closer you get to the equator (0 degrees latitude), the higher the temperature.
+
+---
+## Results
+
+
 
 ## Part I - WeatherPy
 
