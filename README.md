@@ -42,15 +42,22 @@
 7.  Exported the City_Data into a csv file.
 
 ### Latitude Analysis
-1.  Built scatter plot for latitude vs. temperature.  
-2.  Added analysis date for reference.  Saved the plot as Fig1.png.
-3.  Built scatter plots for latitude vs. humidity.
-4.  Added analysis date for reference.  Saved the plot as Fig2.png.
-5.  Built scatter plots for latitude vs. cloudiness.
-6.  Added analysis date for reference.  Saved the plot as Fi31.png.
-7.  Built scatter plots for latitude vs. wind speed.
-8.  Added analysis date for reference.  Saved the plot as Fig4.png.
+1.  Built scatter plot for latitude vs. temperature.  Added analysis date for reference.  Saved the plot as Fig1.png.
+2.  Built scatter plots for latitude vs. humidity.  Added analysis date for reference.  Saved the plot as Fig2.png.
+3.  Built scatter plots for latitude vs. cloudiness. Added analysis date for reference.  Saved the plot as Fig3.png.
+4.  Built scatter plots for latitude vs. wind speed.  Added analysis date for reference.  Saved the plot as Fig4.png.
 
+### Linear Regression Analysis by Hemisphere
+1.  Created a function to create Linear Regression plots.
+2.  Created Northern and Southern Hemisphere dataframes.
+3.  Plotted linear regression for max temp versus latitude for northern hemisphere.
+4.  Plotted linear regression for max temp versus latitude for southern hemisphere.
+5.  Plotted linear regression for humidity versus latitude for northern hemisphere.
+6.  Plotted linear regression for humidity versus latitude for southern hemisphere.
+7.  Plotted linear regression for cloudiness versus latitude for northern hemisphere.
+8.  Plotted linear regression for cloudiness versus latitude for southern hemisphere.
+9.  Plotted linear regression for wind speed versus latitude for northern hemisphere.
+10. Plotted linear regression for wind speed versus latitude for southern hemisphere.
 
 ---
 ## Analysis
