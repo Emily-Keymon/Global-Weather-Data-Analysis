@@ -13,6 +13,7 @@
 
 ---
 ## Tasks
+## Part 1 - Weather Analysis
 ### Generate Cities List
 1.  Created a list for holding lat_lngs and cities.
 2.  Created a set of random lat and lng combinations.
@@ -58,6 +59,8 @@
 8.  Plotted linear regression for cloudiness versus latitude for southern hemisphere.
 9.  Plotted linear regression for wind speed versus latitude for northern hemisphere.
 10. Plotted linear regression for wind speed versus latitude for southern hemisphere.
+
+## Part 2 - Vacation Analysis
 
 ---
 ## Analysis
