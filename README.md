@@ -32,6 +32,14 @@ There is a positive correlation between latitude and max temperature. The closer
 ---
 ## Results
 
+![Fig1](https://user-images.githubusercontent.com/64673015/102723606-ba3a2100-42ce-11eb-8e89-72d0666ed3cc.png)
+
+![Fig2](https://user-images.githubusercontent.com/64673015/102723613-c4f4b600-42ce-11eb-970f-dcba9b182597.png)
+
+![Fig3](https://user-images.githubusercontent.com/64673015/102723619-cde58780-42ce-11eb-8549-316dafe6cd53.png)
+
+![Fig4](https://user-images.githubusercontent.com/64673015/102723624-d5a52c00-42ce-11eb-931c-38d0c0743aff.png)
+
 
 
 ## Part I - WeatherPy
