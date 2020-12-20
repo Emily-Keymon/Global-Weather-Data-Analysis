@@ -1,5 +1,7 @@
 # Global Weather Data Analysis
+The goal for part 1 of this project was to use Python to analyze weather data related to maximum temperature, humidity, wind speed, and cloudiness for over 500 randomly selected global cities. An Open Weather Map API call was used to extract the data.  Linear regression was utilized to determine whether a correlation existed between city latitude and maximum temperature, humidity, wind speed or cloudiness.
 
+The goal for part 2 was to perform an analysis with the data from part 1 to determine the ideal vacation spot.  A heatmap was created to visualize this data.  Hotel analysis was then performed for these areas.  A second heatmap with the hotel layer was created for assistance in finding the perfect vacation destination. 
 
 ---
 ## Data Sources
