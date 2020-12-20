@@ -61,6 +61,24 @@
 10. Plotted linear regression for wind speed versus latitude for southern hemisphere.
 
 ## Part 2 - Vacation Analysis
+### Humidity Heatmap for Cities in Part 1
+1.  Stored csv created in part one into a dataframe.
+2.  Configured gmaps.
+3.  Created heatmap of humidity.
+
+### Create new DataFrame fitting weather criteria
+1.  Narrowed down dataframe to find ideal weather conditions...max temp between 70 and 80, windspeed less than 10 and no cloudiness.
+
+###  Hotel Analysis
+1.  Created dataframe to store hotel names along with city, country and coordinates.  
+2.  Set parameters to search for a hotel.
+3.  Created list of lat and lng from cities data.
+4.  Used the search term: "Hotel" and the lat/lng on Google Maps.
+5.  Made requests and printed urls.
+6.  Converted to JSON.
+7.  Got first hotel from the results and stored the names.
+8.  Used a template to add the hotel marks to the heatmap.
+9.  Added marker layer on top of heat map. 
 
 ---
 ## Analysis
@@ -84,29 +102,4 @@ There is a positive correlation between latitude and max temperature. The closer
 ![Fig4](https://user-images.githubusercontent.com/64673015/102723624-d5a52c00-42ce-11eb-931c-38d0c0743aff.png)
 
 
-
-
-* Temperature (F) vs. Latitude
-* Humidity (%) vs. Latitude
-* Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude
-
-Run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
-
-* Northern Hemisphere - Temperature (F) vs. Latitude
-* Southern Hemisphere - Temperature (F) vs. Latitude
-* Northern Hemisphere - Humidity (%) vs. Latitude
-* Southern Hemisphere - Humidity (%) vs. Latitude
-* Northern Hemisphere - Cloudiness (%) vs. Latitude
-* Southern Hemisphere - Cloudiness (%) vs. Latitude
-* Northern Hemisphere - Wind Speed (mph) vs. Latitude
-* Southern Hemisphere - Wind Speed (mph) vs. Latitude
-
-### Part II - VacationPy
-
-* Create a heat map that displays the humidity for every city from the part I.
-
-* Narrow down the DataFrame to find your ideal weather condition. 
-
-* Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
