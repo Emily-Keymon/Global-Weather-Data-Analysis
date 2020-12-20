@@ -101,5 +101,13 @@ There is a positive correlation between latitude and max temperature. The closer
 
 ![Fig4](https://user-images.githubusercontent.com/64673015/102723624-d5a52c00-42ce-11eb-931c-38d0c0743aff.png)
 
+## Humidity Heatmap
+
+![humidity heat map](https://user-images.githubusercontent.com/64673015/102725251-0f7c2f80-42db-11eb-8cf5-bfc6aad250aa.PNG)
+
+##  Humidity Heatmap with Hotel layer
+
+![humidity heat map with hotels](https://user-images.githubusercontent.com/64673015/102725261-2ae73a80-42db-11eb-92dd-d5c045779fc7.PNG)
+
 
 
