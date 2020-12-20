@@ -8,8 +8,8 @@
 
 ---
 ## Tools Used
-* 
-
+* Jupyter Notebook
+* Python - Pandas, Matplotlib, NumPy, SciPy, CitiPy, Gmaps, OS, Requests
 
 ---
 ## Tasks
