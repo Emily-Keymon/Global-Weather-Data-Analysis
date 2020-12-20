@@ -83,7 +83,7 @@ The goal for part 2 was to perform an analysis with the data from part 1 to dete
 9.  Added marker layer on top of heat map. 
 
 ---
-## Analysis
+# Analysis
 As suspected, the weather becomes warmer the closer you get to the equator (0 degrees latitude). There are some spikes in temperature between 20 degrees and 40 degrees latitude.
 
 Neither humiditiy, cloudiness nor wind speed have direct relationships with the latitude. This applies to both the Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
