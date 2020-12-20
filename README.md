@@ -41,6 +41,16 @@
 6.  Extracted relevant fields from the dataframe.
 7.  Exported the City_Data into a csv file.
 
+### Latitude Analysis
+1.  Built scatter plot for latitude vs. temperature.  
+2.  Added analysis date for reference.  Saved the plot as Fig1.png.
+3.  Built scatter plots for latitude vs. humidity.
+4.  Added analysis date for reference.  Saved the plot as Fig2.png.
+5.  Built scatter plots for latitude vs. cloudiness.
+6.  Added analysis date for reference.  Saved the plot as Fi31.png.
+7.  Built scatter plots for latitude vs. wind speed.
+8.  Added analysis date for reference.  Saved the plot as Fig4.png.
+
 
 ---
 ## Analysis
@@ -65,9 +75,6 @@ There is a positive correlation between latitude and max temperature. The closer
 
 
 
-## Part I - WeatherPy
-
-Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
 
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
