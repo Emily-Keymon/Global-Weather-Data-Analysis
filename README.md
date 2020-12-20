@@ -1,9 +1,10 @@
 # Global Weather Data Analysis
 
+
 ---
 ## Datasets
 * https://openweathermap.org/api
-*  https://github.com/Emily-Keymon/Global-Weather-Data-Analysis/blob/master/output_data/cities.csv
+* https://github.com/Emily-Keymon/Global-Weather-Data-Analysis/blob/master/output_data/cities.csv
 
 
 ## Part I - WeatherPy
