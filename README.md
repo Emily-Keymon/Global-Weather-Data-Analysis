@@ -101,6 +101,32 @@ There is a positive correlation between latitude and max temperature. The closer
 
 ![Fig4](https://user-images.githubusercontent.com/64673015/102723624-d5a52c00-42ce-11eb-931c-38d0c0743aff.png)
 
+## Linear Regression 
+### Max Temperature versus Latitude
+
+![temp v latitude - northern](https://user-images.githubusercontent.com/64673015/102725315-77327a80-42db-11eb-98b5-43e0c3ec95a8.PNG)
+
+![temp v latitude - southern](https://user-images.githubusercontent.com/64673015/102725320-7ef21f00-42db-11eb-9ef3-8a0f510fe9f4.PNG)
+
+### Humidity versus Latitude
+
+![humidity v latitude - northern](https://user-images.githubusercontent.com/64673015/102725333-9e894780-42db-11eb-9c62-7b504cd50f2d.PNG)
+
+![humidity v latitude - southern](https://user-images.githubusercontent.com/64673015/102725341-a648ec00-42db-11eb-90ec-e4a9654b7503.PNG)
+
+### Cloudiness versus Latitude
+
+![cloudiness v latitude - northern](https://user-images.githubusercontent.com/64673015/102725349-b2cd4480-42db-11eb-8f1f-d9c8a98da0da.PNG)
+
+![cloudiness v latitude - southern](https://user-images.githubusercontent.com/64673015/102725353-bbbe1600-42db-11eb-8bd6-23575b6ae9d9.PNG)
+
+### Wind Speed versus Latitude
+
+![wind speed v latitude - northern](https://user-images.githubusercontent.com/64673015/102725366-c8426e80-42db-11eb-953f-441e06908852.PNG)
+
+![wind speed v latitude - southern](https://user-images.githubusercontent.com/64673015/102725373-cf697c80-42db-11eb-856e-5d826476acfa.PNG)
+
+
 ## Humidity Heatmap
 
 ![humidity heat map](https://user-images.githubusercontent.com/64673015/102725251-0f7c2f80-42db-11eb-8cf5-bfc6aad250aa.PNG)
